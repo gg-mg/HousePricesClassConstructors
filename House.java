@@ -1,12 +1,15 @@
-/**
- * Program header: House.java
+/**Program header: House.java
  *
- * Author: George Gichuki Class:CS-2163-EC02S
+ * Author: George Gichuki 
+ * Class: Java, Monday and Wednesday 11:00am to 13.45pm
  *
- * Brief Program Description: This is an Object Oriented Program which follows
- * the following sequence; public class House, private data members,
- * constructors, getters for private data members, setters for private data
- * members, and effectors(methods that are not constructor/getter/setter)
+ * Brief Program Description: 
+ * This is an Object Oriented Program which follows the following sequence;
+ * public class House
+ * private data members
+ * constructors
+ * getters for private data members, setters for private data members 
+ * effectors(methods that are not constructor/getter/setter).
  */
 
 // class declaration
@@ -18,7 +21,7 @@ public class House {
 
 	// public constructor with two parameters in the body
 	public House() {
-		this(168000.00, 2398.25);
+		this(168000.00, 2398.2);
 	}
 
 	// public constructor that takes two parameters in the header of double type
